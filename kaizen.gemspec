@@ -3,7 +3,7 @@ require File.expand_path('../lib/kaizen/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.name     = 'kaizen'
-  gem.version  = kaizen::VERSION
+  gem.version  = Kaizen::VERSION
   gem.license  = 'MIT'
   gem.authors  = ['Kshitij Yadav']
   gem.email    = %w(kshitij.hz@gmail.com)
